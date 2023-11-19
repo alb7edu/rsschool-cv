@@ -6,7 +6,7 @@
 * Mobile: 071234567890
 
 ## SUMMARY
-* Hi all! I'm an RS student interested in technical projects related to JavaScript development.
+* Hi all! I'm an RS student interested in technical projects related to JavaScript development
 
 ## SKILLS
 * HTML5
@@ -17,7 +17,7 @@
 * console.log(“Hello, World”);
 
 ## EXPERIENCE
-* On my Github you will see projects in which I will take part.
+* On my Github you will see projects in which I will take part
 
 ## EDUCATION
 * **2023 - Pres.:** JavaScript/Front-end, RS School
