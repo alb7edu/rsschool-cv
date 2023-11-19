@@ -23,4 +23,4 @@
 * **2023 - Pres.:** JavaScript/Front-end, RS School
 
 ## ENGLISH
-*
+* Level B1
