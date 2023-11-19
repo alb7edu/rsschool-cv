@@ -20,7 +20,7 @@
 * On my Github you will see projects in which I will take part.
 
 ## EDUCATION
-*
+* **2023 - Pres.:** JavaScript/Front-end, RS School
 
 ## ENGLISH
 *
