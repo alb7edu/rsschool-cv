@@ -9,7 +9,9 @@
 * Hi all! I'm an RS student interested in technical projects related to JavaScript development.
 
 ## SKILLS
-*
+* HTML5
+* CSS/SCSS
+* JavaScript
 
 ## CODE EXAMPLES
 *
