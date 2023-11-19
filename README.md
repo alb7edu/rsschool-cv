@@ -17,7 +17,7 @@
 * console.log(“Hello, World”);
 
 ## EXPERIENCE
-*
+* On my Github you will see projects in which I will take part.
 
 ## EDUCATION
 *
