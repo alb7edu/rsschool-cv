@@ -14,7 +14,7 @@
 * JavaScript
 
 ## CODE EXAMPLES
-*
+* console.log(“Hello, World”);
 
 ## EXPERIENCE
 *
