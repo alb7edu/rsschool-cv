@@ -1,11 +1,12 @@
-### First Name, Last Name
+### Alb Nurq
 
 ---
-## CONTACT INFO
-*
+## CONTACT INFORMATION
+* Email: alb7edu@yahoo.com
+* Mobile: 071234567890
 
 ## SUMMARY
-*
+* 
 
 ## SKILLS
 *
